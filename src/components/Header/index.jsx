@@ -13,7 +13,7 @@ const Header = () => (
       <div className="container d-md-none">
         <div className="d-flex justify-content-between pt-4 ms-3 me-3">
           <Logo />
-          <a className="text-decoration-none light-text-color fs-2">
+          <a href="*" className="text-decoration-none light-text-color fs-2">
             <AiOutlineMenu />
           </a>
         </div>
