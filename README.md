@@ -4,4 +4,4 @@ Visualização do projeto: (https://profparedes-legalide.netlify.app/)
 
 Projeto de estudos para aplicação do react e javascript
 
-Tecnologias utilizadas: GraphQL, APIRest, ReactJS com TypeScript
+Tecnologias utilizadas: ReactJS, javascript, HTML e Sass
